@@ -1,0 +1,64 @@
+Portfolio Selection - Harry Markowitz (1952)
+https://www.jstor.org/stable/2975974?refreqid=excelsior%3A935db3b6081329aecc2159058bf0a831
+
+The Stock-Bond Correlation (2021)
+https://jpm.pm-research.com/content/47/3/67
+
+The Effectiveness of Asset Classes in Hedging Risk (2012)
+https://jpm.pm-research.com/content/38/3/40.abstract
+
+The relationship between equity and bond returns: An empirical investigation (2017)
+https://www.sciencedirect.com/science/article/abs/pii/S1386418115301233
+
+Multi-moment risk, hedging strategies, & the business cycle (2018)
+https://www.sciencedirect.com/science/article/abs/pii/S1059056017305166
+
+The Effectiveness of Asset Classes in Hedging Risk (2012)
+https://jpm.pm-research.com/content/38/3/40.abstract
+
+Merton (1974) On the Pricing of Corporate Debt: The Risk Structure of Interest Rates
+https://www.jstor.org/stable/2978814
+
+The Central Bank, the Treasury, or the Market: Which One Determines the Price Level?
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960283
+
+Measuring the Perceived Liquidity of the Corporate Bond Market
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592169
+
+Handling risk-on/risk-off dynamics with correlation regimes and correlation networks
+https://link.springer.com/article/10.1007/s11408-015-0248-2
+
+Regime Changes and Financial Markets (2011)
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1890003
+
+What predicts US recessions? (2016)
+https://www.sciencedirect.com/science/article/abs/pii/S0169207016300279
+
+Identifying Bull and Bear Market Regimes With a Robust Rule-Based Method (2019)
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396480
+
+Short-Term Trend: A Jewel Hidden in Daily Returns (2020)
+https://jpm.pm-research.com/content/early/2020/09/23/jpm.2020.1.186
+
+Asymmetric linkages among the fear index and emerging market volatility indices (2018)
+https://www.sciencedirect.com/science/article/abs/pii/S1566014116301273
+
+Volatility as an Asset Class: Holding VIX in a Portfolio (2018)
+https://jai.pm-research.com/content/21/2/52
+
+Determinants of price discovery in the VIX futures market (2017)
+https://www.sciencedirect.com/science/article/abs/pii/S0927539817300518
+
+Heterogeneity in Beliefs and Volatility Tail Behaviour (2016)
+https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/heterogeneity-in-beliefs-and-volatility-tail-behavior/FD3FAAF277C103AC087643996F1126E8
+
+Tracking the VIX (2017)
+https://jii.pm-research.com/content/8/1/76
+
+Option Writing: Using VIX to Improve Returns (2018)
+https://jod.pm-research.com/content/26/2/38
+
+Right Tail Hedging: Managing Risk When Markets Melt Up
+https://jpm.pm-research.com/content/44/7/55
+
+
