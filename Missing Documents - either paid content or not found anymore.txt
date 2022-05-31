@@ -82,3 +82,9 @@ https://www.tandfonline.com/doi/abs/10.1080/0952813X.2021.1908429
 Buy-and-Hold and Constant-Mix May Be Better Allocation Strategies Than You Think
 https://jpm.pm-research.com/content/46/6/159.abstract
 
+Stock Reversal Pattern Mining Based on Fuzzy Candlestick Lines
+https://ieeexplore.ieee.org/document/9182613
+
+Machine Learning for Active Portfolio Management
+https://jfds.pm-research.com/content/early/2021/07/12/jfds.2021.1.071
+
