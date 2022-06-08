@@ -1,6 +1,3 @@
-Identifying Bull and Bear Market Regimes With a Robust Rule-Based Method (2019)
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396480
-
 The Early Bird Catches the Intraday Trend
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3922814
 
@@ -9,7 +6,3 @@ https://jpm.pm-research.com/content/46/6/159.abstract
 
 Machine Learning for Active Portfolio Management
 https://jfds.pm-research.com/content/early/2021/07/12/jfds.2021.1.071
-
-Research Note: TYVIX/VIX-based Asset Rotation Strategy
-Chicago Board Options Exchange Inc. February 25, 2016
-https://cdn.cboe.com/resources/education/research_publications/stabilis-tyvix-vix-white-paper.pdf
